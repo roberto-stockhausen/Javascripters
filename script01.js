@@ -1,7 +1,3 @@
-let time = 10;
-let second = 0;
-let fail = 0
-
 function Somar(){
    let continuar = true;
    let soma = 0;

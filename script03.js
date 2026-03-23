@@ -27,7 +27,7 @@ if (difference < 0)
 {
     alert("Houve prejuízo")
 }
-if (difference = 0)
+if (difference == 0)
 {
     alert("Não soubrou nada")
 }
