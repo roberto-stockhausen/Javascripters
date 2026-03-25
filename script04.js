@@ -22,7 +22,7 @@ while (organized == false)
     count = 1;
     while (count < 4)
     {
-        if (numbers[count] > numbers[count+1])
+        if (numbers[count] < numbers[count+1])
         {
             holder = numbers[count+1];
             numbers[count+1] = numbers[count];
